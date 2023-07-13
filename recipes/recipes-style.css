@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, sans-serif;
+    text-align: justify;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+h1 {
+    text-align: center;
+    background-color: red;
+}
+
+.des {
+    background-color: rgb(208, 255, 136);
+}
+
+.ing {
+    background-color: rgb(182, 251, 228);
+}
+
+.ste {
+    background-color: blanchedalmond;
+}
